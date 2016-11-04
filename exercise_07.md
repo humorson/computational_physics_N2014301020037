@@ -71,4 +71,6 @@ a.show_results()
 ###result:
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercis_07/results.png)
 ##conclusion
+从结果我们可以看出，在外加动力的不同相角下，<img src="http://latex.codecogs.com/gif.latex?\theta" alt="" title="" />关于<img src="http://latex.codecogs.com/gif.latex?\omega" alt="" title="" />的图像非常相似，只是上下平移了一下而已，呈现出较强的规律，我们可以据此在一定程度上比较准确的预测混沌摆的运动
 ##acknowledgement
+thanks to my roommate qdy's conducting
