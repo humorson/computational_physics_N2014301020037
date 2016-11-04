@@ -3,11 +3,14 @@
 ####in constructing with the poincare section，i plotted points at some specific times.
 ##background
 ###physical equations
-![]()
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercis_07/1.png
+)
 ###Euler_cromer calculation
-![]()
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercis_07/2.png
+)
 ###parameters
-![]()
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercis_07/3.png
+)
 ##main body
 ```
 import math
@@ -66,6 +69,6 @@ a.penludums()
 a.show_results()
 ```
 ###result:
-![]()
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercis_07/results.png)
 ##conclusion
 ##acknowledgement
