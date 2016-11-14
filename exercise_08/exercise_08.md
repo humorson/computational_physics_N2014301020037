@@ -1,15 +1,14 @@
 #exercise_08:problem 3.20   
 ***
 ##abstract
- * make a magnified plot of the diagram an obtain an estimate of the Feigenbaum delta parameter   
- * try to use vpythons  
+ * make a magnified plot of the diagram an obtain an estimate of the Feigenbaum delta parameter    
 
 ##background   
- * physical equations   
+physical equations   
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercis_07/1.png)   
- * Euler_cromer calculation  
+Euler_cromer calculation  
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercis_07/2.png)   
- * parameters   
+parameters   
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercis_07/3.png)   
    
 ##main body  
@@ -63,6 +62,22 @@ a =chaotic_pendulums()
 a.pendulums()
 a.show_result()   
 ```  
-##result  
+##result   
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_08/101.png)  
+the first time of bifurcation  
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_08/102.png)     
+the second time of bifurcation    
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_08/103.png)      
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_08/104.png)      
+estimate Feigenbaum delta parameter     
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_08/106.png)    
+so, we can estimate that     
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_08/107.png)      
+
+##conclusion  
+ * period doubling could lead nonlinear pendulum's motion to chaotic   
+
+##acknowledge
+ * thank qdy for some code's problems
 
 
