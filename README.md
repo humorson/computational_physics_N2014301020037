@@ -8,7 +8,7 @@
 - [x] Exercise_06:**[problem2.10](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_06/exercise_06.md)**     
 - [x] Exercise_07:**[problem3.12](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_07.md)**   
 - [x] Exercise_08:**[problem3.20](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_08/exercise_08.md)**     
-- [x] Exercise_09:   
+- [x] Exercise_09:**[problem3.30](https://github.com/humorson/computational_physics_N2014301020037/edit/master/exercise_09/exercise_09.md)**        
 - [x] Exercise_10:   
 - [x] Exercise_11:   
 - [x] Exercise_12:   
