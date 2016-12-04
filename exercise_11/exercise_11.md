@@ -132,9 +132,9 @@ decrease the velocity of y, the eccentricity rises from zero and the system beco
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/98.png)    
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/97.png) 
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/99.png)   
-![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/95.png)   
-![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/94.png)   
-the lyapunov exponnet varies with the eccentricity.
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/95.png)       
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/94.png)      
+the lyapunov exponnet varies with the eccentricity.    
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/96.png)   
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/93.png)   
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/92.png)    
