@@ -3,12 +3,13 @@
 ##abstract        
 1、solve for the potential in the prism geometry in Figure 5.4(the following picture)       
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/001.png)        
-2、use the symmetry of the capacitor problem(figure 5.6) to write a problem that obtains the result by calculating the potential in only one quadrant of the x-y plane.        
-![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/012.png)    
-##background                     
-![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/004.png)        
-Laplace's equation(in region of space do not contain any elctric charges)      
-![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/005.png)    
+2、use the symmetry of the capacitor problem(figure 5.6) to write a problem that obtains the result by calculating the potential in only one quadrant of the x-y plane.         
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/012.png)        
+##background  
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/015.gif)       
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/004.jpg)               
+Laplace's equation(in region of space do not contain any elctric charges)         
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/005.png)       
 jacobi method         
 In numerical linear algebra, the Jacobi method (or Jacobi iterative method) is an algorithm for determining the solutions of a diagonally dominant system of linear equations. Each diagonal element is solved for, and an approximate value is plugged in. The process is then iterated until it converges.       
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/006.png)     
