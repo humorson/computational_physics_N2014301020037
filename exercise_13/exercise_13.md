@@ -4,7 +4,9 @@
 consider the particular case of waves on a string with fixed ends (different values of r less than 1) or free ends.   
 
 ##background   
-![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/233.png) 
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/233.jpg)      
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/204.gif)     
+
 the center equation of wave motion for ideal cases:   
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/200.png)   
 construct a numerical approach to the wave equation in finite difference form:   
@@ -147,9 +149,9 @@ a sin initial pluck
 a gaussian initial pluck     
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/217.gif)     
 3.spectrums    
-spectrum of a sine vibration    
-![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/221.png)    
-spectrum of a signal with a initial gaussian pluck    
+spectrum of a sine vibration           
+![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/221.png)        
+spectrum of a signal with a initial gaussian pluck           
 string signal varies with time for different initial pluck point
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/207.png)    
 ![](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/208.png)    
