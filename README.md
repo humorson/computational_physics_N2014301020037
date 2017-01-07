@@ -13,5 +13,4 @@
 - [x] Exercise_11:**[problem4.19](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_11/exercise_11.md)**             
 - [x] Exercise_12:**[problem5.1&5.3](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_12/exercise_12.md)**      
 - [x] Exercise_13:**[problem6.1&6.2](https://github.com/humorson/computational_physics_N2014301020037/blob/master/exercise_13/exercise_13.md)**  
-- [x] Exercise_14:    
-- [x] Exercise_15:
+- [x] Final:**[random walks&self-avoiding walks](https://github.com/humorson/computational_physics_N2014301020037/blob/master/final/final.md)**   
