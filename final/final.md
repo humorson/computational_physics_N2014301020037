@@ -204,8 +204,8 @@ b.show1()
 run the programme several times, it will give out different results. These results are totally different because of random.   
 
 ###aknowledgement   
-Nicholas J.Giodano's computational physics.
-wiki.
+Nicholas J.Giodano's computational physics.      
+wiki.       
 and thanks Qing Dayue for some codes' problems.   
 
 
